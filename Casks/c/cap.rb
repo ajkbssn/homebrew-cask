@@ -2,8 +2,8 @@ cask "cap" do
   arch arm: "aarch64", intel: "x86_64"
 
   on_arm do
-    version "0.4.4,01KEZQT2Q2FRT9X2WY6FHR6TD9"
-    sha256 "f41f8bc556f4b0974449f28bbe6103084fd633364dbe9fbe3baa84f83b03eb8b"
+    version "0.4.3,01KEST6CR9J60ZZ1M31EG11KXH"
+    sha256 "47955788fb9adf0398d33d35996d14c13b57bf4501609f02a7f7925162bcd202"
   end
   on_intel do
     version "0.4.4,01KEZQXDK7G0VBB5VT8W2H1VAX"
